@@ -1,0 +1,23 @@
+{
+  "name": "hello-git-branches",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandobhz/hello-git-branches.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandobhz/hello-git-branches/issues"
+  },
+  "homepage": "https://github.com/fernandobhz/hello-git-branches#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
